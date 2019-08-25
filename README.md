@@ -13,9 +13,10 @@ Your client is looking for help from data scientists like you to help them provi
 
 ## Data
 
-* Variable Definition
+Variable      Definition
 
 * ID	Unique Application ID
+
 Office_PIN	PINCODE of Your client's Offices
 Application_Receipt_Date	Date of Application
 Applicant_City_PIN	PINCODE of Applicant Address
