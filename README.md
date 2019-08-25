@@ -48,7 +48,7 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
 <h2>Basic HTML Table</h2>
 
 <table style="width:100%">
-  
+  <tr>
     <td>Jill</td>
     <td>Smith</td>
     <td>50</td>
