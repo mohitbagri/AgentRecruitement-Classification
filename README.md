@@ -57,9 +57,47 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
     <td>Unique Application ID</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Application_Receipt_Date</td>
+    <td>Date of Application</td>
+  </tr>
+  <tr>
+    <td>Applicant_City_PIN</td>
+    <td>PINCODE of Applicant Address</td>
+  </tr>
+  <tr>
+    <td>PINCODE of Applicant Address</td>
+    <td>PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Applicant_Gender</td><td>	Applicant's Gender</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
+  </tr>
+  <tr>
+    <td>Office_PIN</td>
+    <td> PINCODE of Your client's Offices</td>
   </tr>
 </table>
 
