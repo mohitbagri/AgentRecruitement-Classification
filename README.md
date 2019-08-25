@@ -44,9 +44,6 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
 <!DOCTYPE html>
 <html>
 <body>
-
-<h2>Basic HTML Table</h2>
-
 <table style="width:100%">
   <tr>
     <td>Variable</td>
@@ -93,18 +90,42 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
 <tr>
   <td>Manager_Joining_Designation</td><td>	Manager's Joining Designation</td>
   </tr>  
-* Manager_Current_Designation	Manager's Designation at the time of application sourcing
-* Manager_Grade	Manager's Grade
-* Manager_Status	Current Employment Status (Probation / Confirmation)
-* Manager_Gender	Manager's Gender
-* Manager_DoB	Manager's Birthdate
-* Manager_Num_Application	No. of Applications sourced in last 3 months by the Manager
-* Manager_Num_Coded	No. of agents recruited by the manager in last 3 months
-* Manager_Business	Amount of business sourced by the manager in last 3 months
-* Manager_Num_Products	Number of products sold by the manager in last 3 months
-* Manager_Business2	Amount of business sourced by the manager in last 3 months excluding business from their Category A advisor
-* Manager_Num_Products2	Number of products sold by the manager in last 3 months excluding business from their Category A advisor
-* Business_Sourced(Target)	Business sourced by applicant within 3 months [1/0] of recruitment
+ <tr>
+   <td>Manager_Current_Designation</td><td>	Manager's Designation at the time of application sourcing</td>
+  </tr>
+  <tr>
+    <td>Manager_Grade</td><td>	Manager's Grade</td>
+  </tr>
+  <tr>
+    <td>Manager_Status</td>	<td>Current Employment Status (Probation / Confirmation)</td>
+  </tr>
+  <tr>
+    <td>Manager_Gender</td><td>	Manager's Gender</td>
+  </tr>
+ <tr> 
+   <td>Manager_DoB</td><td>	Manager's Birthdate</td>
+  </tr>
+  <tr>
+    <td>Manager_Num_Application</td><td>	No. of Applications sourced in last 3 months by the Manager</td>
+  </tr>
+  <tr>
+    <td>Manager_Num_Coded</td><td>	No. of agents recruited by the manager in last 3 months</td>
+  </tr>
+  <tr>
+    <td>Manager_Business</td><td>	Amount of business sourced by the manager in last 3 months</td>
+  </tr>
+  <tr>
+    <td>Manager_Num_Products</td><td>	Number of products sold by the manager in last 3 months</td>
+  </tr>
+  <tr>
+    <td>Manager_Business2</td><td>	Amount of business sourced by the manager in last 3 months excluding business from their Category A advisor</td>
+  </tr>
+  <tr>
+    <td>Manager_Num_Products2</td><td>	Number of products sold by the manager in last 3 months excluding business from their Category A advisor</td>
+  </tr>
+  <tr>
+    <td> Business_Sourced(Target)	</td><td>Business sourced by applicant within 3 months [1/0] of recruitment</td>
+  </tr>
  
 </table>
 
