@@ -13,7 +13,7 @@ Your client is looking for help from data scientists like you to help them provi
 
 ## Data
 
-Variable &nbsp;&nbsp; Definition
+Variable &nbsp;&nbsp;&nbsp;&nbsp; Definition
 
 * ID	Unique Application ID
 
