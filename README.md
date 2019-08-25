@@ -75,30 +75,27 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
   <tr>
     <td>Applicant_Gender</td><td>	Applicant's Gender</td>
   </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
+    <tr>
+      <td>Applicant_BirthDate</td><td>	Applicant's Birthdate</td>
   </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
-  </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
-  </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
-  </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
-  </tr>
-  <tr>
-    <td>Office_PIN</td>
-    <td> PINCODE of Your client's Offices</td>
-  </tr>
+  <tr> <td> Applicant_Marital_Status</td><td>	Applicant's Marital Status</td></tr>
+* Applicant_Occupation	Applicant's Occupation
+* Applicant_Qualification	Applicant's Educational Qualification
+* Manager_DOJ	Manager's Date of Joining
+* Manager_Joining_Designation	Manager's Joining Designation
+* Manager_Current_Designation	Manager's Designation at the time of application sourcing
+* Manager_Grade	Manager's Grade
+* Manager_Status	Current Employment Status (Probation / Confirmation)
+* Manager_Gender	Manager's Gender
+* Manager_DoB	Manager's Birthdate
+* Manager_Num_Application	No. of Applications sourced in last 3 months by the Manager
+* Manager_Num_Coded	No. of agents recruited by the manager in last 3 months
+* Manager_Business	Amount of business sourced by the manager in last 3 months
+* Manager_Num_Products	Number of products sold by the manager in last 3 months
+* Manager_Business2	Amount of business sourced by the manager in last 3 months excluding business from their Category A advisor
+* Manager_Num_Products2	Number of products sold by the manager in last 3 months excluding business from their Category A advisor
+* Business_Sourced(Target)	Business sourced by applicant within 3 months [1/0] of recruitment
+ 
 </table>
 
 </body>
