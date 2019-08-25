@@ -78,11 +78,21 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
     <tr>
       <td>Applicant_BirthDate</td><td>	Applicant's Birthdate</td>
   </tr>
-  <tr> <td> Applicant_Marital_Status</td><td>	Applicant's Marital Status</td></tr>
-* Applicant_Occupation	Applicant's Occupation
-* Applicant_Qualification	Applicant's Educational Qualification
-* Manager_DOJ	Manager's Date of Joining
-* Manager_Joining_Designation	Manager's Joining Designation
+  <tr> 
+    <td> Applicant_Marital_Status</td><td>	Applicant's Marital Status</td>
+  </tr>
+<tr>
+  <td>Applicant_Occupation</td><td>	Applicant's Occupation</td>
+ </tr>
+ <tr> 
+   <td>Applicant_Qualification</td><td>	Applicant's Educational Qualification</td>
+  </tr>  
+<tr>
+  <td>Manager_DOJ</td><td>	Manager's Date of Joining</td>
+</tr> 
+<tr>
+  <td>Manager_Joining_Designation</td><td>	Manager's Joining Designation</td>
+  </tr>  
 * Manager_Current_Designation	Manager's Designation at the time of application sourcing
 * Manager_Grade	Manager's Grade
 * Manager_Status	Current Employment Status (Probation / Confirmation)
