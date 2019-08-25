@@ -49,14 +49,12 @@ Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
 
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Variable</td>
+    <td>Definition</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>ID</td>
+    <td>Unique Application ID</td>
   </tr>
   <tr>
     <td>John</td>
