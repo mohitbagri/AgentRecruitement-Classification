@@ -15,11 +15,11 @@ Your client is looking for help from data scientists like you to help them provi
 
 Variable &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Definition
 
-* ID	Unique Application ID
+* ID	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unique Application ID
 
-Office_PIN	PINCODE of Your client's Offices
-Application_Receipt_Date	Date of Application
-Applicant_City_PIN	PINCODE of Applicant Address
+Office_PIN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	PINCODE of Your client's Offices
+Application_Receipt_Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	Date of Application
+Applicant_City_PIN	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PINCODE of Applicant Address
 Applicant_Gender	Applicant's Gender
 Applicant_BirthDate	Applicant's Birthdate
 Applicant_Marital_Status	Applicant's Marital Status
